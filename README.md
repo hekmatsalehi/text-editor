@@ -16,7 +16,7 @@ This is a text editor application that run in the browser and can be installed o
 ![Text-Editor Screenshot](./client/src/images/text-editor.png)
 
 ## Link
-[Deployed Application at Heroku](https://agile-atoll-94244.herokuapp.com/)
+[Deployed Application at Heroku](https://txeditor.herokuapp.com)
 
 ## Installation
 In order to install the application to your local machine, click the install button at the top left side of the nav bar and follow the prompt.
